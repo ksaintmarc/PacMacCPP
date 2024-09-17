@@ -1,5 +1,7 @@
 # Projet de Programmation Avancée - PACMAN
 
+Projet réalisé en binome avec Sébastien AUBRY.
+
 ## Sujet
 ### Consignes 
 
